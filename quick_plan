@@ -14,6 +14,7 @@ $>$ ...
 		\subitem bow tie antenna
 		\subitem monopole antenna
 		\subitem dipole antenna
+		\subitem vivaldi antenna
 		\subitem ...
 	\item design antenna patterns for lithography.
 	\item test the antenna designs on a pcb in terms of:
