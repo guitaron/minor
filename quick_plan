@@ -1,0 +1,70 @@
+\documentclass{article}
+
+\begin{document}
+
+\section*{notes}
+\subsection*{research questions}
+$>$ Validating the theory of antenna design;\\
+$>$ extending the knowledge of antenna theory to design a patch array;\\
+$>$ ...
+
+\subsection*{plan of aproach:}
+\begin{itemize}
+	\item similate several patches of antenna arrays
+		\subitem bow tie antenna
+		\subitem monopole antenna
+		\subitem dipole antenna
+		\subitem ...
+	\item design antenna patterns for lithography.
+	\item test the antenna designs on a pcb in terms of:
+		\subitem bandwith
+		\subitem gain
+		\subitem directionality
+		\subitem central frequency
+		\subitem ...
+
+\end{itemize}
+
+\subsection*{future plans}
+\Huge A S T R O N O M Y ! ! !
+\normalsize
+
+\newpage
+\section*{bibliography}
+
+\begin{thebibliography}{9}
+
+\bibitem{Campbell} 
+Stephen A. Campbell 
+\textit{fabrication engineering at the micro- and nanoscale}. 
+OXFORD UNIVERSITY PRESS, 978-0-19-986122-4, 2013.
+
+\bibitem{RF-MEMS applications} 
+C. G. Christodoulou, "RF-MEMS and its applications to microwave systems, antennas and wireless communications," Proceedings of the 2003 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference - IMOC 2003. (Cat. No.03TH8678), Foz do Iguacu, 2003, pp. 525-531 vol.1.
+\\\texttt{https://ieeexplore.ieee.org/abstract/document/1016019l}
+
+\bibitem{RF-MEMS antenna} 
+D. Anagnostou, M. Khodier, J. C. Lyke and C. G. Christodoulou, "Fractal antenna with RF MEMS switches for multiple frequency applications," IEEE Antennas and Propagation Society International Symposium (IEEE Cat. No.02CH37313), San Antonio, TX, USA, 2002, pp. 22-25 vol.2.
+\\\texttt{https://ieeexplore.ieee.org/abstract/document/1244915l}
+
+\bibitem{horn antenna school project} 
+A low-cost 21 cm horn-antenna radio telescope for education and outreach
+\\\texttt{https://www.cfa.harvard.edu/~npatel/hornAntennaAASposterPDF2.pdfl}
+
+\bibitem{Bowtie Antenna Designer} 
+Bowtie Antenna Designer
+\\\texttt{https://www.changpuak.ch/electronics/Butterfly-Antenna-Designer.php}
+
+\bibitem{Bow Tie Antennas} 
+Bow Tie Antenna theory
+\\\texttt{http://www.antenna-theory.com/antennas/wideband/bowtie.php}
+
+\bibitem{Bow Tie Micro Antennas} 
+BOW-TIE MICROSTRIP ANTENNA DESIGN
+\\\texttt{https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1635425\&tag=1}
+
+
+\end{thebibliography}
+
+
+\end{document}
